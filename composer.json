@@ -1,0 +1,7 @@
+{
+    "name": "accumed/ssi-php-client",
+    "description": "SSI PHP Client Library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
